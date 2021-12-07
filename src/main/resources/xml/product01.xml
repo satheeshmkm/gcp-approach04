@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Products>
+	<Product ID="20003" UserTypeID="Item"
+		ParentID="10000">
+		<Name>1000000000</Name>
+	</Product>
+	<Product ID="20004" UserTypeID="Item"
+		ParentID="10000">
+		<Name>1000000000</Name>
+	</Product>
+</Products>
